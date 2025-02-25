@@ -4,6 +4,10 @@ Cybersecurity Portfolio
 I am a cybersecurity enthusiast with a passion for securing digital assets, ethical hacking, and risk management. My expertise includes penetration testing, network security, and vulnerability assessment.
 
 ## 🔹 Skills & Expertise
+- Security Audit | [Scope,goals,and risk assessment report](https://github.com/user-attachments/files/18971795/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf) [Controls and compliance checklist](https://github.com/user-attachments/files/18971796/Controls.and.compliance.checklist.pdf)
+
+
+
 - 🔐 Penetration Testing (Kali Linux, Metasploit, Burp Suite) |
 - 📡 Network Security (Wireshark, Nmap, Snort)
 - 🔍 Vulnerability Assessment (Nessus, OpenVAS)
